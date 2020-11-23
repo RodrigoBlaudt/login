@@ -1,0 +1,16 @@
+C:\Users\rodri\Documents\GitHub\login\obj\Debug\net5.0\login.csprojAssemblyReference.cache
+C:\Users\rodri\Documents\GitHub\login\obj\Debug\net5.0\login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Documents\GitHub\login\obj\Debug\net5.0\login.AssemblyInfoInputs.cache
+C:\Users\rodri\Documents\GitHub\login\obj\Debug\net5.0\login.AssemblyInfo.cs
+C:\Users\rodri\Documents\GitHub\login\obj\Debug\net5.0\login.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\GitHub\login\bin\Debug\net5.0\login.exe
+C:\Users\rodri\Documents\GitHub\login\bin\Debug\net5.0\login.deps.json
+C:\Users\rodri\Documents\GitHub\login\bin\Debug\net5.0\login.runtimeconfig.json
+C:\Users\rodri\Documents\GitHub\login\bin\Debug\net5.0\login.runtimeconfig.dev.json
+C:\Users\rodri\Documents\GitHub\login\bin\Debug\net5.0\login.dll
+C:\Users\rodri\Documents\GitHub\login\bin\Debug\net5.0\ref\login.dll
+C:\Users\rodri\Documents\GitHub\login\bin\Debug\net5.0\login.pdb
+C:\Users\rodri\Documents\GitHub\login\obj\Debug\net5.0\login.dll
+C:\Users\rodri\Documents\GitHub\login\obj\Debug\net5.0\ref\login.dll
+C:\Users\rodri\Documents\GitHub\login\obj\Debug\net5.0\login.pdb
+C:\Users\rodri\Documents\GitHub\login\obj\Debug\net5.0\login.genruntimeconfig.cache
