@@ -13,7 +13,6 @@ namespace login
             do{
                 Console.WriteLine("Qual o código do usuário?");
                 cod_user = Convert.ToInt32(Console.ReadLine());
-                
                 if (cod_user == cod_user_target){
                     Console.WriteLine("Digite a senha: ");
                     pass = Convert.ToInt32(Console.ReadLine());
