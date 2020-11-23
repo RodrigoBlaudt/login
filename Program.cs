@@ -17,11 +17,11 @@ namespace login
                     Console.WriteLine("Digite a senha: ");
                     pass = Convert.ToInt32(Console.ReadLine());
                         if(pass == pass_user_target){
-                            Console.WriteLine("Acesso liberado!");
+                            Console.WriteLine("Acesso permito!");
                             break;
                         }
                         else{
-                            Console.WriteLine("Acesso negado!\n\n1 - Voltar ao menu\n0 - Encerrar o sistema");
+                            Console.WriteLine("Acesso negado!\n\n1 - Tentar novamente\n0 - Encerrar o sistema");
                             op = Convert.ToInt32(Console.ReadLine());
                         }
                 }
